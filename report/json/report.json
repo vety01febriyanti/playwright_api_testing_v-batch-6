@@ -82,7 +82,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 361,
+                  "duration": 368,
                   "errors": [],
                   "stdout": [],
                   "stderr": [
@@ -91,7 +91,7 @@
                     }
                   ],
                   "retry": 0,
-                  "startTime": "2024-10-16T14:01:56.775Z",
+                  "startTime": "2024-10-16T14:33:52.447Z",
                   "attachments": []
                 }
               ],
@@ -118,12 +118,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 463,
+                  "duration": 860,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T14:01:57.148Z",
+                  "startTime": "2024-10-16T14:33:52.828Z",
                   "attachments": []
                 }
               ],
@@ -150,12 +150,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 424,
+                  "duration": 481,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T14:01:57.616Z",
+                  "startTime": "2024-10-16T14:33:53.695Z",
                   "attachments": []
                 }
               ],
@@ -182,12 +182,12 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 672,
+                  "duration": 521,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2024-10-16T14:01:58.048Z",
+                  "startTime": "2024-10-16T14:33:54.181Z",
                   "attachments": []
                 }
               ],
@@ -204,8 +204,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2024-10-16T14:01:53.793Z",
-    "duration": 5038.786,
+    "startTime": "2024-10-16T14:33:50.099Z",
+    "duration": 4640.036,
     "expected": 4,
     "skipped": 0,
     "unexpected": 0,
